@@ -143,25 +143,3 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .pd-button:hover{color:#000!important;background-color:#ccc!important}
 .pd-transparent,.pd-hover-none:hover{background-color:transparent!important}
 .pd-hover-none:hover{box-shadow:none!important}
-/* Colors */
-.pd-sand,.pd-hover-sand:hover{color:#000!important;background-color:#fdf5e6!important}
-.pd-white,.pd-hover-white:hover{color:#000!important;background-color:#fff!important}
-.pd-black,.pd-hover-black:hover{color:#fff!important;background-color:#000!important}
-.pd-grey,.pd-hover-grey:hover,.pd-gray,.pd-hover-gray:hover{color:#000!important;background-color:#9e9e9e!important}
-.pd-light-grey,.pd-hover-light-grey:hover,.pd-light-gray,.pd-hover-light-gray:hover{color:#000!important;background-color:#f1f1f1!important}
-.pd-dark-grey,.pd-hover-dark-grey:hover,.pd-dark-gray,.pd-hover-dark-gray:hover{color:#fff!important;background-color:#616161!important}
-.pd-text-blue,.pd-hover-text-blue:hover{color:#2196F3!important}
-.pd-text-light-blue,.pd-hover-text-light-blue:hover{color:#87CEEB!important}
-.pd-text-brown,.pd-hover-text-brown:hover{color:#795548!important}
-.pd-text-red,.pd-hover-text-red:hover{color:#f44336!important}
-.pd-text-white,.pd-hover-text-white:hover{color:#fff!important}
-.pd-text-black,.pd-hover-text-black:hover{color:#000!important}
-.pd-text-grey,.pd-hover-text-grey:hover,.pd-text-gray,.pd-hover-text-gray:hover{color:#757575!important}
-.pd-text-light-grey,.pd-hover-text-light-grey:hover,.pd-text-light-gray,.pd-hover-text-light-gray:hover{color:#f1f1f1!important}
-.pd-text-dark-grey,.pd-hover-text-dark-grey:hover,.pd-text-dark-gray,.pd-hover-text-dark-gray:hover{color:#3a3a3a!important}
-.pd-border-red,.pd-hover-border-red:hover{border-color:#f44336!important}
-.pd-border-white,.pd-hover-border-white:hover{border-color:#fff!important}
-.pd-border-black,.pd-hover-border-black:hover{border-color:#000!important}
-.pd-border-grey,.pd-hover-border-grey:hover,.pd-border-gray,.pd-hover-border-gray:hover{border-color:#9e9e9e!important}
-.pd-border-light-grey,.pd-hover-border-light-grey:hover,.pd-border-light-gray,.pd-hover-border-light-gray:hover{border-color:#f1f1f1!important}
-.pd-border-dark-grey,.pd-hover-border-dark-grey:hover,.pd-border-dark-gray,.pd-hover-border-dark-gray:hover{border-color:#616161!important}
